@@ -6,7 +6,7 @@
 
 ## A little about me
 
-I'm a computer student, from Rajkot, Gujarat. I've been with computers, since 2018. The thing I like most about computers is that they do EXACTLY what I tell them to. I code for fun, and look forward to helping everyone, and engineering something that helps the mass.
+I'm a computer student, from Rajkot, Gujarat. I've been coding since 2018. I like computers (if you couldn't tell). I code for fun, and look forward to helping everyone, and engineering something that helps the mass.
 
 <br>
 
