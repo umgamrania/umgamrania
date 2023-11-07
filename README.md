@@ -13,9 +13,9 @@ I'm a computer student, from Rajkot, Gujarat. I've been coding since 2018. I lik
 ## Stuff I like
  * C/C++
  * Python
- * Java
+ * Java ( - hibernate - JWS )
  * Full stack Web Dev.
- * Android
+ * Android / Flutter
 
 <br>
 
