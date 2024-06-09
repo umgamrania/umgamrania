@@ -20,5 +20,5 @@ I'm a computer student, from Rajkot, Gujarat. I've been coding since 2018. I lik
 <br>
 
 ## Checkout my latest work
-- [Expense Tracker](https://github.com/umgamrania/expense-tracker)
+- [Simple web server in C](https://github.com/umgamrania/simple-c-server)
 - [My Diploma Projects](https://github.com/umgamrania/Diploma-projects)
